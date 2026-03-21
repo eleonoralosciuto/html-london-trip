@@ -33,7 +33,9 @@ I considered the page to include an header and a main. I divided each block betw
 ### HTML TAGS USED
 inline tags:
 - img
-- b <br>
+- b 
+<br>
+
 block level tags:
 - header
 - main
