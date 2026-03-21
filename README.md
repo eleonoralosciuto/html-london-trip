@@ -34,7 +34,7 @@ I considered the page to include an header and a main. I divided each block betw
 inline tags:
 - img
 - b <br>
-block level tags:git
+block level tags:
 - header
 - main
 - hr
@@ -44,5 +44,5 @@ block level tags:git
 - section
 - figure
 - table, and its relative tags
-- ol
-- ul
+- ol and li
+- ul and li
