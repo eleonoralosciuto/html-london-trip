@@ -33,7 +33,7 @@ I considered the page to include an header and a main. I divided each block betw
 ### HTML TAGS USED
 inline tags:
 - img
-- b
+- b <br>
 block level tags:git
 - header
 - main
